@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 80px;
+}
+.head{
+    background-color: #F0FFF0;
+}
+.btn-style{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+.col-md-7 img{
+    width: 100%;
+}
+.first-p{
+    color: #FD511A;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px
+}
+.banner{
+    padding-bottom: 50px;
+}
+.card{
+    border: none;
+    padding: 40px 10px;
+    background-color:#F8FFFB;
+    border-radius: 5px;
+    
+}
+.first-deck{
+    text-align: center;
+}
+.first-deck img{
+    width: 30%;
+}
+.diff-bg{
+   background-color: white;
+   box-shadow: 4px 4px 15px lightgrey;
+}
+.card-title{
+    color: #413960;
+    font-size: 20px;
+    font-weight: 700;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-footer img{
+    width: 10%;
+}
+.courses h4{
+    font-size: 30px;
+    color: #413960;
+    margin-bottom: 30px;
+}
+.col-md-4 img{
+    width: 30%;
+}
+h4{
+    font-size: 30px;
+}
+.testimony{
+    padding: 30px;
+}
+.tail{
+    background-color: #282531;
+    color: white;
+   font-weight: 300;
+   padding: 50px 0 1px 0;
+}
+.row li{
+    list-style: none;
+}
+.tail a{
+    cursor: pointer;
+}
